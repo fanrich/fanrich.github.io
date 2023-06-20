@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "6b400f5e29869836",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfed9c8107f09a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84aa1ffc9e2a83e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b052f63f77414ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "65188c5690ae184b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9371a8d4807d459",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "48ea1884fed72615",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37749e6075873c31",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8908f14e56318ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "91b2dc6327e65533",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeafb5aff24d6377",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "630b54b4f219f0d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39f700efb202af3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10d5558e65d842d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "84aa1ffc9e2a83e9",
+  "lastOpenFiles": [
+    "审计/公务接待中哪些行为可为？哪些行为不可为？.md",
+    "审计/审计.md",
+    "投行/保荐代表人/不同持股模式下税负对比思维导图.md",
+    "投行/保荐代表人/保荐代表人.md",
+    "投行/投行.md",
+    "法律/刑法/中华人民共和国刑法.md",
+    "法律/宪法/中华人民共和国宪法.md",
+    "法律/民法/中华人民共和国民法典.md",
+    "法律/法律.md",
+    "注会/审计/审计.md",
+    "注会/注册会计师.md",
+    "编程/代码/代码.md",
+    "编程/博客/博客.md",
+    "编程/博客/博客部署.md",
+    "编程/系统/linux/archlinux.md",
+    "编程/系统/windows/windows重装.md",
+    "编程/系统/系统.md",
+    "编程/编程.md",
+    "设计/设计.md",
+    "index.md",
+    "投行/保荐代表人/不同持股模式下税负对比思维导图.drawio.svg",
+    "编程/代码",
+    "编程/系统/windows",
+    "编程/系统/linux",
+    "编程/系统/hackintosh",
+    "编程/系统",
+    "投行/保荐代表人",
+    "投行",
+    "设计/vedio",
+    "设计/graphic",
+    "设计/audio",
+    "编程/博客/bo-ke-bu-shu.md",
+    "().md",
+    "未命名.canvas",
+    "白板测试.canvas",
+    "未0命名.canvas",
+    "未命名思维导图.md",
+    "README.md"
+  ]
+}

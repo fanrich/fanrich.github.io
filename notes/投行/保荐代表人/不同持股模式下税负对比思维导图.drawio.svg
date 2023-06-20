@@ -1,0 +1,653 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1151px" height="2160px" viewBox="-0.5 -0.5 1151 2160" content="&lt;mxfile&gt;&lt;diagram id=&quot;KQkfetBBf1MuSGHCL-z0&quot; name=&quot;第 1 页&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 108.76 455 L 283.63 455" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 288.88 455 L 281.88 458.5 L 283.63 455 L 281.88 451.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 528.69 -64.69 L 728.19 -64.69 L 892.19 66.51 L 892.19 974.68 L 364.69 974.68 L 364.69 66.51 Z" fill="#647687" stroke="#314354" stroke-width="3" stroke-miterlimit="10" transform="rotate(-90,628.44,454.99)" pointer-events="all"/>
+        <ellipse cx="10" cy="910" rx="3" ry="3" fill="rgb(0, 0, 0)" stroke="none" pointer-events="all"/>
+        <rect x="0" y="900" width="20" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <rect x="130" y="0" width="340" height="50" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 338px; height: 1px; padding-top: 25px; margin-left: 132px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                不同持股模式下税负对比
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="34" fill="#ffffff" font-family="Helvetica" font-size="30px">
+                    不同持股模式下税负对比
+                </text>
+            </switch>
+        </g>
+        <path d="M 10 910 L 80 910 L 80 25 L 118.4 25" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 126.65 25 L 115.65 30.5 L 118.4 25 L 115.65 19.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 455 L 325 455 Q 335 455 335 445 L 335 325 Q 335 315 345 315 L 369.9 315" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 315 L 367.65 319.5 L 369.9 315 L 367.65 310.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 455 L 325 455 Q 335 455 335 465 L 335 575 Q 335 585 345 585 L 369.9 585" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 585 L 367.65 589.5 L 369.9 585 L 367.65 580.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="130" y="375" width="160" height="160" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 455px; margin-left: 132px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                个人通过合伙企业持股平台持股
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="464" fill="#ffffff" font-family="Helvetica" font-size="30px">
+                    个人通过合伙企业持股平台持股
+                </text>
+            </switch>
+        </g>
+        <path d="M 10 910 L 80 910 L 80 454.99 L 97.15 454.99" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 105.4 454.99 L 94.4 460.49 L 97.15 454.99 L 94.4 449.49 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="380" y="300" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 315px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                转让股权
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="324" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    转让股权
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="570" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 585px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                投资分红
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="594" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    投资分红
+                </text>
+            </switch>
+        </g>
+        <rect x="575" y="200" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 200 M 885 200 M 885 250 L 575 250" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 247px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                不征收企业所得税
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="247" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    不征收企业所得税
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 315 Q 530 315 547.5 282.5 Q 565 250 575 250" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="340" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 340 M 885 340 M 885 390 L 575 390" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 387px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                经营所得个人所得税
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="387" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    经营所得个人所得税
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 315 Q 530 315 547.5 352.5 Q 565 390 575 390" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="430" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 430 M 885 430 M 885 480 L 575 480" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 477px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                不征收企业所得税
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="477" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    不征收企业所得税
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 585 Q 530 585 547.5 532.5 Q 565 480 575 480" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 895 670 Q 905 670 952.5 670 Q 1000 670 1010 670" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="510" width="320" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 510 M 895 510 M 895 670 L 575 670" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 318px; height: 1px; padding-top: 667px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                不并入企业的收入，而应单独作为投资者个人取得的利息、股息、红利所得
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="667" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    不并入企业的收入，而应单独作为投资者个人取得的利息、股息、红利所得
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 585 Q 530 585 547.5 627.5 Q 565 670 575 670" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 953 320 L 959.9 320" fill="none" stroke="#a18d00" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 966.65 320 L 957.65 324.5 L 959.9 320 L 957.65 315.5 Z" fill="#a18d00" stroke="#a18d00" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 960 250 L 935 250 Q 925 250 925 260 L 925 310 Q 925 320 915 320 L 900 320 Q 890 320 900 320 L 915 320 Q 925 320 925 330 L 925 380 Q 925 390 935 390 L 960 390" fill="none" stroke="#b09500" stroke-width="3" stroke-miterlimit="10" transform="translate(925,0)scale(-1,1)translate(-925,0)" pointer-events="all"/>
+        <rect x="970" y="250" width="140" height="140" fill="#f0a30a" stroke="#bd7000" stroke-width="2" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 320px; margin-left: 971px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                税负
+                                <br/>
+                                5%-35%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1040" y="329" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    税负
+5%-35%
+                </text>
+            </switch>
+        </g>
+        <rect x="1010" y="570" width="100" height="100" fill="#f0a30a" stroke="#bd7000" stroke-width="2" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 620px; margin-left: 1011px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                税负20%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1060" y="629" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    税负20%
+                </text>
+            </switch>
+        </g>
+        <path d="M 528.69 560 L 728.19 560 L 892.19 691.2 L 892.19 1599.37 L 364.69 1599.37 L 364.69 691.2 Z" fill="none" stroke="#21a210" stroke-width="3" stroke-miterlimit="10" transform="rotate(-90,628.44,1079.68)" pointer-events="all"/>
+        <path d="M 290 1079.69 L 325 1079.7 Q 335 1079.7 335 1069.7 L 335 949.7 Q 335 939.7 345 939.7 L 369.9 939.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 939.69 L 367.65 944.19 L 369.9 939.69 L 367.65 935.19 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 1079.69 L 325 1079.7 Q 335 1079.7 335 1089.7 L 335 1164.7 Q 335 1174.7 345 1174.7 L 369.9 1174.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 1174.69 L 367.65 1179.19 L 369.9 1174.69 L 367.65 1170.19 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="130" y="999.69" width="160" height="160" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 1080px; margin-left: 132px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                个人通过有限责任公司持股平台持股
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="132" y="1089" fill="#ffffff" font-family="Helvetica" font-size="30px">
+                    个人通过有限责任公司持股平台持股
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="924.69" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 940px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                转让股权
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="949" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    转让股权
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="1159.69" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 1175px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                投资分红
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="1184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    投资分红
+                </text>
+            </switch>
+        </g>
+        <path d="M 885 874.69 Q 895 874.69 888.03 874.73 Q 881.05 874.76 891.05 874.83" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="824.69" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 824.69 M 885 824.69 M 885 874.69 L 575 874.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 872px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                征收企业所得税25%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="872" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    征收企业所得税25%
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 939.69 Q 530 939.69 547.5 907.19 Q 565 874.69 575 875" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 885 1014.69 Q 895 1014.69 887.92 1014.69 Q 880.84 1014.69 890.84 1014.69" fill="none" stroke="#ffffff" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="964.69" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 964.69 M 885 964.69 M 885 1014.69 L 575 1014.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 1012px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                经营所得个人所得税
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="1012" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    经营所得个人所得税
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 939.69 Q 530 939.69 547.5 977.19 Q 565 1014.69 575 1015" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="1054.69" width="250" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 1054.69 M 825 1054.69 M 825 1104.69 L 575 1104.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 248px; height: 1px; padding-top: 1102px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                免征企业所得税
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="1102" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    免征企业所得税
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 1174.69 Q 530 1174.69 547.5 1139.69 Q 565 1104.69 575 1105" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 915 1244.69 Q 925 1244.69 962.5 1244.69 Q 1000 1244.69 1010 1244.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="575" y="1194.69" width="340" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 575 1194.69 M 915 1194.69 M 915 1244.69 L 575 1244.69" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 338px; height: 1px; padding-top: 1242px; margin-left: 577px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                利息、股息、红利所得
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="577" y="1242" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    利息、股息、红利所得
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 1174.69 Q 530 1174.69 547.5 1209.69 Q 565 1244.69 575 1245" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 953 944.69 L 959.9 944.69" fill="none" stroke="#b09500" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 966.65 944.69 L 957.65 949.19 L 959.9 944.69 L 957.65 940.19 Z" fill="#b09500" stroke="#b09500" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 960 874.69 L 935 874.69 Q 925 874.69 925 884.69 L 925 934.69 Q 925 944.69 915 944.69 L 900 944.69 Q 890 944.69 900 944.69 L 915 944.69 Q 925 944.69 925 954.69 L 925 1004.69 Q 925 1014.69 935 1014.69 L 960 1014.69" fill="none" stroke="#b09500" stroke-width="3" stroke-miterlimit="10" transform="translate(925,0)scale(-1,1)translate(-925,0)" pointer-events="all"/>
+        <rect x="970" y="874.69" width="140" height="140" fill="#f0a30a" stroke="#bd7000" stroke-width="2" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 945px; margin-left: 971px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                税负
+                                <br/>
+                                40%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1040" y="954" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    税负
+40%
+                </text>
+            </switch>
+        </g>
+        <rect x="1010" y="1144.69" width="100" height="100" fill="#f0a30a" stroke="#bd7000" stroke-width="2" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 1195px; margin-left: 1011px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                税负20%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1060" y="1204" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    税负20%
+                </text>
+            </switch>
+        </g>
+        <path d="M 436.34 1282.03 L 820.53 1282.03 L 984.53 1413.23 L 984.53 2321.4 L 272.34 2321.4 L 272.34 1413.23 Z" fill="#53a967" stroke="#2d7600" stroke-width="3" stroke-miterlimit="10" transform="rotate(-90,628.43,1801.71)" pointer-events="all"/>
+        <path d="M 310 1660 L 335 1660 Q 345 1660 345 1650 L 345 1559.4 Q 345 1549.4 355 1549.39 L 369.9 1549.39" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 1549.38 L 367.65 1553.89 L 369.9 1549.39 L 367.64 1544.89 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 310 1660 L 335 1660 Q 345 1660 345 1670 L 345 1749.4 Q 345 1759.4 355 1759.39 L 369.9 1759.39" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 376.65 1759.38 L 367.65 1763.89 L 369.9 1759.39 L 367.64 1754.89 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="150" y="1580" width="160" height="160" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 1660px; margin-left: 152px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                个人通过有限责任公司持股平台持股
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="152" y="1669" fill="#ffffff" font-family="Helvetica" font-size="30px">
+                    个人通过有限责任公司持股平台持股
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="1534.38" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 1549px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                转让股权
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="1558" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    转让股权
+                </text>
+            </switch>
+        </g>
+        <rect x="380" y="1744.38" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 138px; height: 1px; padding-top: 1759px; margin-left: 382px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                投资分红
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="382" y="1768" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    投资分红
+                </text>
+            </switch>
+        </g>
+        <path d="M 910 1564.38 Q 920 1564.38 925 1564.38 Q 930 1564.38 940 1564.38" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="600" y="1514.38" width="310" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 600 1514.38 M 910 1514.38 M 910 1564.38 L 600 1564.38" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 308px; height: 1px; padding-top: 1561px; margin-left: 602px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                征收企业所得税25%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="602" y="1561" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    征收企业所得税25%
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 1564.38 Q 530 1564.38 560 1564.38 Q 590 1564.38 600 1564" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 984.53 1774.38 Q 994.53 1774.38 997.26 1774.38 Q 1000 1774.38 1010 1774.38" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="554.53" y="1724.38" width="430" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 554.53 1724.38 M 984.53 1724.38 M 984.53 1774.38 L 554.53 1774.38" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 428px; height: 1px; padding-top: 1771px; margin-left: 557px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                按照持股期限实行差别化政策
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="557" y="1771" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    按照持股期限实行差别化政策
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 1774.38 Q 530 1774.38 537.26 1774.38 Q 544.53 1774.38 555 1774" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="1010" y="1744.38" width="110" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 108px; height: 1px; padding-top: 1759px; margin-left: 1011px;">
+                        <div data-drawio-colors="color: #0050EF; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 80, 239); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                见注1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1065" y="1768" fill="#0050EF" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    见注1
+                </text>
+            </switch>
+        </g>
+        <rect x="150" y="1940" width="60" height="60" fill="#0050ef" stroke="#001dbc" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 58px; height: 1px; padding-top: 1970px; margin-left: 152px;">
+                        <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                注1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="152" y="1979" fill="#ffffff" font-family="Helvetica" font-size="30px">
+                    注1
+                </text>
+            </switch>
+        </g>
+        <rect x="940" y="1464.38" width="100" height="100" fill="#f0a30a" stroke="#bd7000" stroke-width="2" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 1514px; margin-left: 941px;">
+                        <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                税负20%
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="990" y="1523" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    税负20%
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 1840 Q 530 1840 648.28 1840 Q 766.56 1840 776.56 1840" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="360" y="1790" width="160" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 1790 M 520 1790 M 520 1840 L 360 1840" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 158px; height: 1px; padding-top: 1837px; margin-left: 362px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                暂免征收
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="362" y="1837" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    暂免征收
+                </text>
+            </switch>
+        </g>
+        <path d="M 210 1970 Q 220 1970 285 1905 Q 350 1840 360 1840" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 790 1970 Q 780 1970 783.28 1970 Q 786.56 1970 776.56 1970" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="360" y="1920" width="430" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 1920 M 790 1920 M 790 1970 L 360 1970" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 428px; height: 1px; padding-top: 1967px; margin-left: 362px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                暂减按50%计入应纳税所得额
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="362" y="1967" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    暂减按50%计入应纳税所得额
+                </text>
+            </switch>
+        </g>
+        <path d="M 210 1970 Q 220 1970 285 1970 Q 350 1970 360 1970" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 700 2100 Q 710 2100 738.28 2100 Q 766.56 2100 776.56 2100" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="360" y="2050" width="340" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 360 2050 M 700 2050 M 700 2100 L 360 2100" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe center; width: 338px; height: 1px; padding-top: 2097px; margin-left: 361px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font style="font-size: 30px;">
+                                    全额计入应纳税所得额
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="530" y="2097" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    全额计入应纳税所得额
+                </text>
+            </switch>
+        </g>
+        <path d="M 210 1970 Q 220 1970 285 2035 Q 350 2100 360 2100" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 10 910 L 80 910 L 80 1079.68 L 97.15 1079.68" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 105.4 1079.68 L 94.4 1085.18 L 97.15 1079.68 L 94.4 1074.18 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 10 910 L 80 910 L 80 1801.71 L 97.15 1801.71" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 105.4 1801.71 L 94.4 1807.21 L 97.15 1801.71 L 94.4 1796.21 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="776.56" y="1790" width="290" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 776.56 1790 M 1066.56 1790 M 1066.56 1840 L 776.56 1840" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 1837px; margin-left: 779px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                持股期限超过1年的
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="779" y="1837" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    持股期限超过1年的
+                </text>
+            </switch>
+        </g>
+        <rect x="776.56" y="1920" width="290" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 776.56 1920 M 1066.56 1920 M 1066.56 1970 L 776.56 1970" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 1967px; margin-left: 779px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                持股期限在1个月以上至1年（含1年）的
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="779" y="1967" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    持股期限在1个月以上至1年（含1年）的
+                </text>
+            </switch>
+        </g>
+        <rect x="776.56" y="2050" width="290" height="50" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 776.56 2050 M 1066.56 2050 M 1066.56 2100 L 776.56 2100" fill="none" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 288px; height: 1px; padding-top: 2097px; margin-left: 779px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                持股期限在1个月以内（含1个月）的
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="779" y="2097" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="30px">
+                    持股期限在1个月以内（含1个月）的
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
