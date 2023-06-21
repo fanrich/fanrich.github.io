@@ -11186,7 +11186,7 @@ var HTMLGenerator = class {
       let graph = this.generateGraphView(usingDocument);
       let graphHeader = usingDocument.createElement("span");
       graphHeader.addClass("sidebar-section-header");
-      graphHeader.innerText = "Interactive Graph";
+      graphHeader.innerText = "关系图谱";
       rightSidebar.appendChild(graphHeader);
       rightSidebar.appendChild(graph);
     }
