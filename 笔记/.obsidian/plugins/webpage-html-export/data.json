@@ -19,13 +19,13 @@
   "includeGraphView": true,
   "includeFileTree": true,
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 0.6,
   "graphLinkLength": 16,
   "graphRepulsionForce": 150,
   "graphCentralForce": 3,
-  "graphEdgePruning": 100,
-  "graphMinNodeSize": 3,
-  "graphMaxNodeSize": 7,
+  "graphEdgePruning": 64,
+  "graphMinNodeSize": 7,
+  "graphMaxNodeSize": 12,
   "lastExportPath": "D:\\blog\\obsidian\\docs"
 }

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c59f072a43b79dd",
+        "id": "47f8859566e26484",
         "type": "tabs",
         "children": [
           {
-            "id": "dca3b8fb03fb8fab",
+            "id": "1ae805cd03edd54b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ],
@@ -139,7 +147,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dca3b8fb03fb8fab",
+  "active": "1ae805cd03edd54b",
   "lastOpenFiles": [
     "审计/公务接待中哪些行为可为？哪些行为不可为？.md",
     "投行/保荐代表人/不同持股模式下税负对比思维导图.md",
@@ -151,6 +159,7 @@
     "编程/系统/linux/archlinux.md",
     "编程/系统/windows/windows重装.md",
     "index.md",
+    "投行/保荐代表人/不同持股模式下税负对比思维导图.drawio.svg",
     "注会/审计/审计.md",
     "注会/注册会计师.md",
     "审计/审计.md",
@@ -161,7 +170,6 @@
     "编程/系统/系统.md",
     "编程/编程.md",
     "设计/设计.md",
-    "投行/保荐代表人/不同持股模式下税负对比思维导图.drawio.svg",
     "编程/代码",
     "编程/系统/windows",
     "编程/系统/linux",

@@ -15238,17 +15238,17 @@
     let nodes = {
       "nodeCount": 10,
       "linkCount": 1,
-      "radii": [7, 7, 3, 3, 3, 3, 3, 3, 3, 3],
-      "labels": ["index", "博客部署", "windows重装", "archlinux", "代码", "中华人民共和国民法典", "中华人民共和国宪法", "中华人民共和国刑法", "不同持股模式下税负对比思维导图", "公务接待中哪些行为可为？哪些行为不可为？"],
-      "paths": ["index.html", "编程/博客/博客部署.html", "编程/系统/windows/windows重装.html", "编程/系统/linux/archlinux.html", "编程/代码/代码.html", "法律/民法/中华人民共和国民法典.html", "法律/宪法/中华人民共和国宪法.html", "法律/刑法/中华人民共和国刑法.html", "投行/保荐代表人/不同持股模式下税负对比思维导图.html", "审计/公务接待中哪些行为可为？哪些行为不可为？.html"],
-      "linkSources": [0],
-      "linkTargets": [1]
+      "radii": [12, 12, 7, 7, 7, 7, 7, 7, 7, 7],
+      "labels": ["博客部署", "index", "windows重装", "archlinux", "代码", "中华人民共和国民法典", "中华人民共和国宪法", "中华人民共和国刑法", "不同持股模式下税负对比思维导图", "公务接待中哪些行为可为？哪些行为不可为？"],
+      "paths": ["编程/博客/博客部署.html", "index.html", "编程/系统/windows/windows重装.html", "编程/系统/linux/archlinux.html", "编程/代码/代码.html", "法律/民法/中华人民共和国民法典.html", "法律/宪法/中华人民共和国宪法.html", "法律/刑法/中华人民共和国刑法.html", "投行/保荐代表人/不同持股模式下税负对比思维导图.html", "审计/公务接待中哪些行为可为？哪些行为不可为？.html"],
+      "linkSources": [1],
+      "linkTargets": [0]
     };
     let attractionForce = 0.6;
     let linkLength = 16;
     let repulsionForce = 150;
     let centralForce = 3;
-    let edgePruning = 100;
+    let edgePruning = 64;
   </script>
 
   <script type="module" src="lib/scripts/graph_view.js"></script>
@@ -16252,7 +16252,7 @@
       </div>
     </div>
     <div class="document-container">
-      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" tabindex="-1" style="tab-size: 4;">
+      <div class="markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings show-indentation-guide allow-fold-lists" style="tab-size: 4;">
         <style id="MJX-CHTML-styles"></style>
         <div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: ; padding-top: var(--file-margins); padding-right: var(--file-margins); padding-left: var(--file-margins); width: 100%; position: absolute;">
           <div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div>
@@ -16261,9 +16261,8 @@
           </div>
           <div>
             <pre class="frontmatter language-yaml" tabindex="0" style="display: none;"><code class="language-yaml is-loaded"><span class="token key atrule">title</span><span class="token punctuation">:</span> 中华人民共和国宪法
-<span class="token key atrule">categories</span><span class="token punctuation">:</span> 律师
-<span class="token key atrule">tags</span><span class="token punctuation">:</span>
-  <span class="token punctuation">-</span> 宪法
+<span class="token key atrule">categories</span><span class="token punctuation">:</span> <span class="token punctuation">[</span>律师<span class="token punctuation">]</span>
+<span class="token key atrule">tags</span><span class="token punctuation">:</span> <span class="token punctuation">[</span>宪法<span class="token punctuation">]</span>
 <span class="token key atrule">date</span><span class="token punctuation">:</span> <span class="token datetime number">2022-02-23 17:56:00</span></code><button class="copy-code-button">复制</button></pre>
             <div class="frontmatter-container">
               <div class="frontmatter-container-header">
