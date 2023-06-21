@@ -11192,7 +11192,7 @@ var HTMLGenerator = class {
     }
     if (ExportSettings.settings.includeOutline) {
       let headerTree = LinkTree.headersFromFile(file.markdownFile, 1);
-      let outline = this.generateHTMLTree(headerTree, usingDocument, "Table Of Contents", "outline-tree", false, 1, 2, ExportSettings.settings.startOutlineCollapsed);
+      let outline = this.generateHTMLTree(headerTree, usingDocument, "文章目录", "outline-tree", false, 1, 2, ExportSettings.settings.startOutlineCollapsed);
       rightSidebar.appendChild(outline);
     }
     if (ExportSettings.settings.addDarkModeToggle && !usingDocument.querySelector(".theme-toggle-container-inline, .theme-toggle-container")) {
