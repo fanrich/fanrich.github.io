@@ -1,3 +1,11 @@
+---
+title: linux-command-as
+date: 2021-09-06 23:01:31
+type: posts
+categories: [程技]
+tags: [linux,command]
+---
+
 as
 ===
 
